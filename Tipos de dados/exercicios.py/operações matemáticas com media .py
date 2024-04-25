@@ -14,3 +14,5 @@ print(f"idade do aluno:{nome}")
 print(f"primeira nota do aluno:{primeiraNota}")
 print(f"segunda nota  do aluno:{segundaNota}")
 print(f"media do aluno:{media}")
+
+     
