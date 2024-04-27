@@ -4,8 +4,7 @@ os.system("cls || clear")
 print("\n==solicitando dados===")
 precomorango=2.50(input("quantos kilos de morango?"))
 precomaca=1.80(input("quantos kilos de maca?"))
-quantidadeProduto=int(input("Digite a quantidade do produto"))
-precoProduto=float(input("Digite o valor do produto: "))
+
 
 
 
