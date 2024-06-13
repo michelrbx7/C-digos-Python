@@ -2,11 +2,11 @@ import os
 
 os.system("cls || clear")
 
-#Vetor=espaço na memória que posso guardar informações.
 
 #constantes.
 QUANTIDADE_ALUNOS=2
 
+#Vetor=espaço na memória que posso guardar informações.
 nomes=[]
 idades=[]
 
